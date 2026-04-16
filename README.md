@@ -1,7 +1,7 @@
 # Hackintosh-ThinkPad-X1-Carbon-Gen-8
 Hackintosh EFI for my ThinkPad X1 Carbon Gen 8
 # What works and what doesn't?
-
+<br>
 WiFi	✅	AirportIltwm.kext
 Full Graphics Accleration	✅
 Audio Speakers	✅
@@ -46,3 +46,4 @@ Fingerprint Reader	⛔️
 Face Unlock ⛔️
 Wireless WAN	⛔️
 AirPlay to Mac	⛔️
+</br>
